@@ -656,7 +656,7 @@ Drupal 4.6.0, 2005-04-15
 - Documentation:
     * Improved and extended PHPDoc/Doxygen comments.
 
-Drupal 4.5.8, 2006-03-13
+Drupal 4.5.8, 2006-03-13hjkhkjh
 ------------------------
 - Fixed bugs, including 3 security vulnerabilities.
 
